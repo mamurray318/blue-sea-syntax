@@ -1,0 +1,6 @@
+{
+  "name": "Blue-sea-syntax",
+  "tagline": "A blue syntax theme to feel like you are on the beach.",
+  "body": "# blue-sea-syntax theme\r\n\r\nA blue syntax theme <span class='icon icon-paintcan'/>to feel like you are on the beach.\r\n\r\nAsk [<span class='icon icon-mention '/>nikitaw99](https://www.github.com/nikitaw99) if you have any questions or leave an [<span class='icon icon-issue-opened'/>Issue](https://www.github.com/nikitaw99/blue-sea-syntax/issues).\r\n\r\nFeel free to [<span class='icon icon-repo-forked'/>Fork](https://www.github.com/nikitaw99/blue-sea-syntax/fork) the repo to create your own theme <span class='icon icon-paintcan'/>or help us evolve <span class='icon icon-issue-closed'/>!\r\n\r\nCheck it out at [Atom.io](https://atom.io/themes/blue-sea-syntax)!\r\n\r\nOr run:\r\n```\r\napm install blue-sea-syntax\r\n```\r\n\r\n![A screenshot of the theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
